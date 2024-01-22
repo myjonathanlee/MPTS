@@ -1,0 +1,22 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "FINAL YEAR PROJECT"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "\\FINAL YEAR PROJECT.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "\\IPSGraph_PriceVolume.java" #[EndFile]
+#[BeginFile]SOURCE := "\\MPTSGlobalVariables.java" #[EndFile]
+#[BeginFile]SOURCE := "\\ResultsModel.java" #[EndFile]
+#[BeginFile]SOURCE := "\\MPTS_main.java" #[EndFile]
+#[BeginFile]SOURCE := "\\ExtensionFilter.java" #[EndFile]
+#[BeginFile]SOURCE := "\\SystemWindow.java" #[EndFile]
+#[BeginFile]SOURCE := "\\information\\Terms and Conditions.txt" #[EndFile]
+#[BeginFile]SOURCE := "\\JDBCEvents.java" #[EndFile]
+#[BeginFile]SOURCE := "\\IPS.java" #[EndFile]
+
+! Start Breakpoint Structure
+

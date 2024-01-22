@@ -1,0 +1,1 @@
+java SimulateMarket marketSimulationfile.csv
